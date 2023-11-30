@@ -1,0 +1,8 @@
+version: 2
+
+sources:
+    - name: landing
+      database : hidden-pad-398906
+      schema : landing
+      tables: 
+        - name: LAN_TBL
